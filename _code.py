@@ -9,22 +9,22 @@ WIDTH, HEIGHT = 1080, 1920
 
 # Load 13 object images (hexadecimal names)
 object_images = [
-    pygame.image.load("0.png"),
-    pygame.image.load("1.png"),
-    pygame.image.load("2.png"),
-    pygame.image.load("3.png"),
-    pygame.image.load("4.png"),
-    pygame.image.load("5.png"),
-    pygame.image.load("6.png"),
-    pygame.image.load("7.png"),
-    pygame.image.load("8.png"),
-    pygame.image.load("9.png"),
-    pygame.image.load("A.png"),
-    pygame.image.load("B.png"),
-    pygame.image.load("C.png"),
-    pygame.image.load("D.png"),
-    pygame.image.load("E.png"),
-    pygame.image.load("F.png"),
+    pygame.image.load("\IMG\0.png"),
+    pygame.image.load("\IMG\1.png"),
+    pygame.image.load("\IMG\2.png"),
+    pygame.image.load("\IMG\3.png"),
+    pygame.image.load("\IMG\4.png"),
+    pygame.image.load("\IMG\5.png"),
+    pygame.image.load("\IMG\6.png"),
+    pygame.image.load("\IMG\7.png"),
+    pygame.image.load("\IMG\8.png"),
+    pygame.image.load("\IMG\9.png"),
+    pygame.image.load("\IMG\A.png"),
+    pygame.image.load("\IMG\B.png"),
+    pygame.image.load("\IMG\C.png"),
+    pygame.image.load("\IMG\D.png"),
+    pygame.image.load("\IMG\E.png"),
+    pygame.image.load("\IMG\F.png"),
 ]
 
 # Resize images to 100x100 pixels
